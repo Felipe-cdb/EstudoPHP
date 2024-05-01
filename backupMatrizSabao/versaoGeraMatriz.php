@@ -2,7 +2,7 @@
 
 // Função para gerar a matriz com estrutura inicial e numeração sequencial
 function gerarMatriz($numAndares, $numColunas) {
-    $gapao = [];
+    $galpao = [];
     $contador = 1;
     $contadorAndar = 1000;
 
@@ -12,20 +12,20 @@ function gerarMatriz($numAndares, $numColunas) {
             $posicao = [($contadorAndar+($contador++)), [], []]; // Inicializa a posição com id sequencial e dois arrays vazios
             $andar[] = $posicao;
         }
-        $gapao[] = $andar;
+        $galpao[] = $andar;
         $contador = 1;
         $contadorAndar = $contadorAndar+1000;
     }
 
-    return $gapao;
+    return $galpao;
 }
 
 // Função para imprimir a matriz gerada
-function imprimirMatriz($gapao) {
-    $numAndares = count($gapao);
+function imprimirMatriz($galpao) {
+    $numAndares = count($galpao);
     for ($i = 0; $i < $numAndares; $i++) {
         echo "Andar " . ($i + 1) . ":\n";
-        foreach ($gapao[$i] as $posicao) {
+        foreach ($galpao[$i] as $posicao) {
             echo "| ";
             echo $posicao[0] . " ";
             echo "[" . implode(",", $posicao[1]) . "] ";
@@ -40,11 +40,11 @@ function imprimirMatriz($gapao) {
 $numAndares = 5;
 $numColunas = 4;
 
-$gapao = gerarMatriz($numAndares, $numColunas);
+$galpao = gerarMatriz($numAndares, $numColunas);
 
 // Exibir a matriz gerada
 echo "Matriz Gerada:\n";
-imprimirMatriz($gapao);
+imprimirMatriz($galpao);
 
 ?>
 
