@@ -2,13 +2,13 @@
 require_once "phpqrcode/qrlib.php";
 
 // Dados do produto
-$nomeProduto = "Nome do Produto";
+$nomeProduto = "Sabão";
 $descricaoProduto = "Descrição do Produto";
-$precoProduto = "Preço do Produto";
+$precoProduto = "3.8";
 
 // Endereço de entrega
-$rua = "Nome da Rua";
-$numero = "Número da Casa";
+$rua = "Rua 1";
+$numero = "123";
 
 // Concatenação das informações do produto e endereço de entrega
 $informacoes = "Produto: $nomeProduto\nDescrição: $descricaoProduto\nPreço: $precoProduto\nEntregar em: $rua, $numero";
