@@ -1,3 +1,4 @@
+<!-- https://www.php.net/manual/pt_BR/pdo.connections.php -->
 <!-- Criar a Conexão com o Banco de Dados -->
 <?php
 $host = '127.0.0.1';   // ou $host = 'localhost'

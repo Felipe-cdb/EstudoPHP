@@ -1,3 +1,4 @@
+<!-- https://www.php.net/manual/en/reserved.variables.get.php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>

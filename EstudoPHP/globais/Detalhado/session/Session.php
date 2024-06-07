@@ -1,3 +1,4 @@
+<!-- https://www.php.net/manual/en/reserved.variables.session.php -->
 <?php
 // Inicia a sessão
 session_start();

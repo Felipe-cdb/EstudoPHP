@@ -1,3 +1,4 @@
+<!-- https://www.php.net/manual/pt_BR/book.pdo.php -->
 <!-- Criar a Conexão com o Banco de Dados -->
 <?php
 try {

@@ -1,3 +1,4 @@
+<!-- https://www.php.net/manual/en/reserved.variables.cookies.php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>

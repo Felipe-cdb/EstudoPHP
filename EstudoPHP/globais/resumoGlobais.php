@@ -1,3 +1,4 @@
+<!-- https://www.php.net/language.variables.superglobals -->
 <?php 
     setcookie("Permitir-COOKIE", "Autorizado", time()+60 );
     session_start();
