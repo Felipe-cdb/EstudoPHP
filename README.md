@@ -1,6 +1,7 @@
 # Estudo de PHP
 
 Este repositório contém arquivos e materiais relacionados ao meu estudo de PHP. grande parte do material contido aqui, foi fruto dos estudos feitos pelo curso php-jedai da plataforma dankicode, um curso completo em php, um material incrível que recomendo o estudo por ele.
+https://cursos.dankicode.com/campus/php-jedai
 
 ## (Dankicode: php-jedai) Aqui estão os principais temas que explorei:
 
