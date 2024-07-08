@@ -1,0 +1,3 @@
+file_teste.txt
+
+Teste para procurar existência de um arquivo
