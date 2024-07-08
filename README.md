@@ -1,30 +1,23 @@
 # Estudo de PHP
 
-Este repositório contém arquivos e materiais relacionados ao meu estudo de PHP. Aqui estão os principais temas que explorei:
+Este repositório contém arquivos e materiais relacionados ao meu estudo de PHP. grande parte do material contido aqui, foi fruto dos estudos feitos pelo curso php-jedai da plataforma dankicode, um curso completo em php, um material incrível que recomendo o estudo por ele.
 
-## Variáveis
+## (Dankicode: php-jedai) Aqui estão os principais temas que explorei:
 
-você encontrará exemplos e exercícios relacionados ao uso de variáveis em PHP.
+* Variáveis
+* Funções
+* Estrutura Condicional
+* Estrutura de Repetição
+* Arrays
+* Matrizes
+* Globais
+* Orientação a objeto
+* Manipulação de Arquivos e Diretorios
+* PHP com banco de dados MySQL
+* Composer
+* Estrutura MVC
 
-## Funções
-
-você encontrará exemplos e exercícios relacionados à criação e uso de funções em PHP.
-
-## Estrutura Condicional
-
-você encontrará exemplos e exercícios relacionados à estrutura condicional em PHP, incluindo `if`, `else` e `switch`.
-
-## Estrutura de Repetição
-
-você encontrará exemplos e exercícios relacionados à estrutura de repetição em PHP, incluindo `for`, `while` e `foreach`.
-
-## Arrays
-
-você encontrará exemplos e exercícios relacionados à manipulação de arrays em PHP, incluindo arrays simples e arrays associativos.
-
-## Matrizes
-
-você encontrará exemplos e exercícios relacionados ao uso de matrizes (arrays multidimensionais) em PHP.
+você encontrará exemplos e exercícios relacionados a esses conteúdo em PHP nos diretorios e arquivos desse repositório.
 
 ## Curso em Video
 Além disso, há uma pasta `EstudoPHPCursoEmVideo` que contém os arquivos utilizados durante o estudo do PHP 8 no curso do Gustavo Guanabara, do Curso em Vídeo.
